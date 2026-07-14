@@ -1,4 +1,4 @@
-# Switchboard
+# Switchboard - Scott
 
 Your command center for Claude Code sessions.
 
